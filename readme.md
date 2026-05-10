@@ -10,6 +10,8 @@
 
 **Código:** 213023
 
+**Estudiante:** SERGIO RAUL TURIZO MEDINA
+
 
 
 ## Ejercicio 1: Sistema Integral de Gestión de Clientes, Servicios y Reservas

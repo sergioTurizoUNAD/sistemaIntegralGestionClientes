@@ -1,0 +1,11 @@
+RECORDATORIO
+=================================================
+
+Profesor: Mauricio
+Curso: Programación - Código 213023
+Tarea: Ejercicio 1 - Sistema Integral de Gestión de Clientes, Servicios y Reservas
+
+Hola Profe, los compañeros del equipo
+NO participaron en el desarrollo de este trabajo.
+
+El trabajo fue realizado únicamente por mi

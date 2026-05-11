@@ -1,3 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+logs_sistema.txt
+
 # Logs
 logs
 *.log
